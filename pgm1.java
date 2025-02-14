@@ -6,7 +6,7 @@ public class pgm1 {
         System.out.println("Enter the values of a and b");
         String a=sc.next();
         String b=sc.next();
-        int sum=a+b;
+        String sum=a+b;
         System.out.println("Sum="+sum);
     }
 }
